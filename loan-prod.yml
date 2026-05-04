@@ -4,7 +4,7 @@ build:
 loan:
   message: "Hey, welcome to EazyBank loans related prod APIs "
   contactDetails:
-    name: "Pelias Sudhir - Product Owner, Eunhee Yoo - CEO"
+    name: "Pelias Sudhir - Product Owner"
     email: "pelias@eazybank.com"
   onCallSupport:
     - (723) 656-8709
